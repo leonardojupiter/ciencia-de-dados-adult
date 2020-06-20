@@ -6,14 +6,10 @@ Diurno - Ciência da Computação 07/A
 
 Tema: Adult
 
+Integrantes:
 Diogo Costa Martins Lopes
-RA: 919121644
-
-Leonardo Pereira Santos Nascimento
-RA: 917109108
-
+Leonardo Nascimento
 Matheus Alves Correa
-RA: 917119895
 
 Documentação Jupyter Notebook:
 https://jupyter-notebook.readthedocs.io/en/stable/
