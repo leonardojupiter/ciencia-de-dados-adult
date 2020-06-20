@@ -1,5 +1,5 @@
 # Ciência de Dados
-Este repositório contém o projeto em Ciência de Dados orientada pelo professor José Storopoli.
+Este repositório contém o projeto em Ciência de Dados orientada pelo professor José Storopoli, Universidade Nove de Julho 2020/01.
 
 Turma:
 Diurno - Ciência da Computação 07/A
