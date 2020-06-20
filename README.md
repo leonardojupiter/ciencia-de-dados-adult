@@ -1,12 +1,11 @@
 # Ciência de Dados
 Este repositório contém o projeto em Ciência de Dados orientada pelo professor José Storopoli.
 
-Turma;
+Turma:
 Diurno - Ciência da Computação 07/A
 
 Tema: Adult
 
-Integrantes;
 Diogo Costa Lopes 
 919121644
 
@@ -16,7 +15,6 @@ Leonardo Pereira Nascimento
 Matheus Alves Correa
 917119895
 
-Links de referência;
 Documentação Jupyter Notebook:
 https://jupyter-notebook.readthedocs.io/en/stable/
 
