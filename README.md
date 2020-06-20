@@ -6,10 +6,10 @@ Diurno - Ciência da Computação 07/A
 
 Tema: Adult
 
-Diogo Costa Lopes
+Diogo Costa Martins Lopes
 RA: 919121644
 
-Leonardo Pereira Nascimento
+Leonardo Pereira Santos Nascimento
 RA: 917109108
 
 Matheus Alves Correa
