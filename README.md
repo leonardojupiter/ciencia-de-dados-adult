@@ -7,8 +7,8 @@ Diurno - Ciência da Computação 07/A
 Tema: Adult
 
 Integrantes:
-Diogo Costa Martins Lopes
-Leonardo Nascimento
+Diogo Costa Martins Lopes,
+Leonardo Nascimento e
 Matheus Alves Correa
 
 Documentação Jupyter Notebook:
