@@ -9,7 +9,8 @@ Tema: Adult
 Integrantes:
 Diogo Lopes,
 Leonardo Nascimento e
-Matheus Correa
+Matheus Correa.
+Por questão de segurança os RAs não se encontram nessa página publica.
 
 Documentação Jupyter Notebook:
 https://jupyter-notebook.readthedocs.io/en/stable/
