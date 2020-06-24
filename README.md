@@ -1,5 +1,5 @@
 # Ciência de Dados
-Este repositório contém o projeto em Ciência de Dados orientada por José Storopoli, Universidade Nove de Julho, São Paulo - SP, 2020/1
+Este repositório contém uma atividade em Ciência de Dados orientada por José Storopoli, Universidade Nove de Julho, São Paulo - SP, 2020/1
 
 Turma:
 Diurno - Ciência da Computação 07/A
@@ -10,7 +10,8 @@ Integrantes:
 Diogo Lopes,
 Leonardo Nascimento e
 Matheus Correa.
-Por questão de segurança os RAs não se encontram nessa página publica.
+
+Por questão de segurança, os números de RA não se encontram nessa página publica.
 
 Documentação Jupyter Notebook:
 https://jupyter-notebook.readthedocs.io/en/stable/
@@ -35,7 +36,7 @@ https://matplotlib.org/api/_as_gen/matplotlib.pyplot.subplot.html#matplotlib.pyp
 
 https://swcarpentry.github.io/python-novice-gapminder/09-plotting/
 
-Playlist com 32 aulas sobre Matplotlib:
+Playlist, 32 aulas sobre Matplotlib:
 https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
 
 https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
