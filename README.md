@@ -13,7 +13,7 @@ Matheus Correa.
 
 Por questão de segurança, os números de RA não se encontram nessa página publica.
 
-Link de redirecionamento:
+Acessar .ipynb:
 https://github.com/Pesanas/ciencia-de-dados-adult/blob/master/ciencia_de_dados_adult.ipynb
 
 Documentações:
