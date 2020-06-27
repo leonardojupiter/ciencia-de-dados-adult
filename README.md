@@ -13,6 +13,10 @@ Matheus Correa.
 
 Por questão de segurança, os números de RA não se encontram nessa página publica.
 
+Link para ser redirecionado para o projeto:
+
+https://github.com/Pesanas/ciencia-de-dados-adult/blob/master/ciencia_de_dados_adult.ipynb
+
 Documentação Jupyter Notebook:
 https://jupyter-notebook.readthedocs.io/en/stable/
 
