@@ -13,17 +13,18 @@ Matheus Correa.
 
 Por questão de segurança, os números de RA não se encontram nessa página publica.
 
-Link para ser redirecionado para o projeto:
-
+Link de redirecionamento:
 https://github.com/Pesanas/ciencia-de-dados-adult/blob/master/ciencia_de_dados_adult.ipynb
 
-Documentação Jupyter Notebook:
+Documentações:
+
+Jupyter Notebook:
 https://jupyter-notebook.readthedocs.io/en/stable/
 
-Documentação Pandas:
+Pandas:
 https://pandas.pydata.org/docs/
 
-Documentação Python:
+Python:
 https://docs.python.org/3/library/index.html
 
 UCI Machine Learning Repository:
