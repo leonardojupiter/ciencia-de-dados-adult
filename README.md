@@ -4,7 +4,7 @@ Este repositório contém uma atividade em Ciência de Dados orientada por José
 Turma:
 Diurno - Ciência da Computação 07/A
 
-Tema: Adult.
+Tema: Adult
 
 Integrantes:
 Diogo Lopes,
