@@ -12,7 +12,7 @@ Por questões de segurança, os números de RA não se encontram nessa página p
 Na data 08/12/22 este repositório foi transferido da minha conta antiga leonardo5thworld para minha conta nova leonardojupiter.
 
 Acessar .ipynb do projeto:
-https://github.com/Pesanas/ciencia-de-dados-adult/blob/master/ciencia_de_dados_adult.ipynb
+https://github.com/leonardojupiter/ciencia-de-dados-adult/blob/main/ciencia_de_dados_adult.ipynb
 
 Documentações:
 
