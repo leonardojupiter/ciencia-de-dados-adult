@@ -33,6 +33,8 @@ https://archive.ics.uci.edu/ml/datasets.php
 UCI Machine Learning Repository - Adult Repository:
 https://archive.ics.uci.edu/ml/datasets/Adult
 
+Na data 08/12/22 este repositório foi transferido da minha conta antiga leonardo5thworld para minha conta nova leonardojupiter.
+
 Referências:
 
 Aula 9, gráficos:
@@ -48,5 +50,3 @@ https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
 https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
 
 https://jupyter-notebook.readthedocs.io/en/stable/
-
-Na data 08/12/22 este repositório foi transferido da minha conta antiga leonardo5thworld para minha conta nova leonardojupiter.
