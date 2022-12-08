@@ -1,5 +1,5 @@
 # Ciência de Dados
-Este repositório contém uma atividade em Ciência de Dados orientada por José Storopoli, Universidade Nove de Julho, São Paulo - SP, 2020/1
+Este repositório contém o PI em Ciência de Dados orientada por José Storopoli, Universidade Nove de Julho, São Paulo - SP, 2020/1
 
 Turma:
 Diurno - Ciência da Computação 07/A
@@ -11,7 +11,9 @@ Diogo Lopes,
 Leonardo Nascimento e
 Matheus Correa.
 
-Por questão de segurança, os números de RA não se encontram nessa página publica.
+Por questão de segurança, os números de RA não se encontram nessa página pública.
+
+Na data 08/12/22 este repositório foi transferido da minha conta antiga leonardo5thworld para minha conta nova leonardojupiter.
 
 Acessar .ipynb do projeto:
 https://github.com/Pesanas/ciencia-de-dados-adult/blob/master/ciencia_de_dados_adult.ipynb
@@ -32,8 +34,6 @@ https://archive.ics.uci.edu/ml/datasets.php
 
 UCI Machine Learning Repository - Adult Repository:
 https://archive.ics.uci.edu/ml/datasets/Adult
-
-Na data 08/12/22 este repositório foi transferido da minha conta antiga leonardo5thworld para minha conta nova leonardojupiter.
 
 Referências:
 
